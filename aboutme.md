@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I'm taking this class
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Rebecca Kim. I am here for the following reasons:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I like cross-stitching
+- I enjoy trying to things
+- I need a Div 3
 
 What else do you need?
 
