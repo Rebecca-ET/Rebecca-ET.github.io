@@ -2,7 +2,7 @@
 layout: post
 title: Who Am I?
 subtitle: Elevator Pitch Post
-bigimg: /img/elevator pitch.jpg
+bigimg: /img/elevator.jpg
 tags: [elevator, pitch]
 comments: true
 ---
