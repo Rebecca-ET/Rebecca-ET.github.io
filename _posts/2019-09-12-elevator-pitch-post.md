@@ -3,7 +3,7 @@ layout: post
 title: Who Am I?
 subtitle: Elevator Pitch Post
 bigimg: /img/broken-elevator.jpg
-tags: [test]
+tags: [elevator, pitch]
 comments: true
 ---
 
