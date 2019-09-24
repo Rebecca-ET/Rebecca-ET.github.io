@@ -8,7 +8,8 @@ comments: true
 ---
 
 **Turned into 9 Different Stitches:**
-
 Whip Stitch, Back Stitch, Running Stitch, Cross Stitch, French Knot, Fly Stitch, Satin Stitch, Chain Stitch, & Blanket Stitch
 
-Tip to past self: Be careful with the details on the sampler. In other words, do not stitch the entire circle and make more work for yourself. Also, get an embroidery hoop.
+![sew5](https://github.com/Rebecca-ET/Rebecca-ET.github.io/blob/master/img/sew5.jpg "The Masterpiece")
+
+### Tip to past self: Be careful with the details on the sampler. In other words, do not stitch the entire circle and make more work for yourself. Also, get an embroidery hoop.
