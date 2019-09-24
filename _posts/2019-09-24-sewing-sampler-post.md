@@ -2,7 +2,7 @@
 layout: post
 title: Sewing Sampler
 subtitle: What was supposed to be 8 different stitches
-bigimg: /img/sew5.jpg
+bigimg: /img/sew.jpg
 tags: [sewing, sampler]
 comments: true
 ---
