@@ -6,7 +6,7 @@ tags: [sewing, sampler]
 comments: true
 ---
 
-**Turned into 9 Different Stitches**
+**Turned into 9 Different Stitches:**
 
 Whip Stitch, Back Stitch, Running Stitch, Cross Stitch, French Knot, Fly Stitch, Satin Stitch, Chain Stitch, Blanket Stitch
 
