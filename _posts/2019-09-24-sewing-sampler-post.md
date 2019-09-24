@@ -11,4 +11,4 @@ comments: true
 
 Whip Stitch, Back Stitch, Running Stitch, Cross Stitch, French Knot, Fly Stitch, Satin Stitch, Chain Stitch, Blanket Stitch
 
-Tip to past me: Be careful with the details on the sampler. Do not stitch the entire circle and make more work for yourself. Also, get an embroidery hoop.
+Tip to past self: Be careful with the details on the sampler. Do not stitch the entire circle and make more work for yourself. Also, get an embroidery hoop.
