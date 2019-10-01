@@ -8,9 +8,13 @@ comments: true
 
 This project involved creating a circuit plushy that lights up when you press the button. 
 
-First, I made a paper prototype.
+First, I made a paper prototype based on the Simple Circuits Assignment.
 
-![proto](http://Rebecca-ET.github.io/img/Circuit-Plushy.pdf)
+![proto](http://Rebecca-ET.github.io/img/circuits1.jpg)
+
+![proto](http://Rebecca-ET.github.io/img/circuits.jpg)
+
+![proto](http://Rebecca-ET.github.io/img/proto.jpg)
 
 Then I tested that the lights would turn on with the alligator clips.
 
