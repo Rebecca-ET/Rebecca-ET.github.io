@@ -10,15 +10,21 @@ This project involved creating a circuit plushy that lights up when you press th
 
 First, I made a paper prototype.
 
-![proto](http://Rebecca-ET.github.io/img/Circuit Plushy.pdf)
+![proto](http://Rebecca-ET.github.io/img/Circuit-Plushy.pdf)
 
-The electronic components were connected with conductive thread. 
+Then I tested that the lights would turn on with the alligator clips.
 
-![sweater](http://Rebecca-ET.github.io/img/.PNG)
+![alligator](http://Rebecca-ET.github.io/img/alligatorclips.jpg)
 
-The temperature in the screeenshot above was 60 degrees Fahrenheit.
+After that, I connected the electronic components with conductive thread, sewed the plushy together, and filled it with stuffing.
 
-Tip to past self: Borrow a Mac from the library. Setting up your PC was and continues to be a headache.
+![plushyfront](http://Rebecca-ET.github.io/img/plushyfront.jpg)
 
+![plushyback](http://Rebecca-ET.github.io/img/plushyback.jpg)
 
-  Include a description of the project (in your words), and one tip/trick/hint for others attempting this project for the first time.
+And it works!
+
+![plushylight](http://Rebecca-ET.github.io/img/plushylight.jpg)
+
+Tip: Use the sparkfun education website to learn the basics of e-sewing. 
+When sewing the electronic components together with conductive thread, do not stitch across a component and make sure that the plus and minus sides are matched up as they should be.
