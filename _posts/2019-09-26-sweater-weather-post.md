@@ -12,4 +12,4 @@ The Sweater Weather assignment involved writing a C-program to output a phrase f
 
 The temperature in the screeenshot above was 60 degrees Fahrenheit.
 
-Tip to past self: Borrow a Mac from the library. Setting up your PC was and continnues to be a headache.
+Tip to past self: Borrow a Mac from the library. Setting up your PC was and continues to be a headache.
