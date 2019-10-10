@@ -8,7 +8,7 @@ comments: true
 
 The purpose of this assignment was to make a circuit with a homemade switch from conductive fabric and another from conductive thread patches. When both switches are closed, the LEDs will light up.
 
-![paperproto](http://Rebecca-ET.github.io/img/Paperprotohs.pdf)
+![paperproto](http://Rebecca-ET.github.io/img/homemadestitchesproto2.jpg)
 
 ![alligatorproto](http://Rebecca-ET.github.io/img/alligatorprotohs.jpg)
 
