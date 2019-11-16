@@ -6,6 +6,8 @@ tags: [rgb, loop]
 comments: true
 ---
 
-![proposal](https://Rebecca-ET.github.io/img/projectproposal.jpeg)
+This program prints the color of LEDs using a loop.
 
-#### Tip to past self: You should think of a good way to connect the LEDs with conductive thread so that they don't cross too often.
+![sampler](https://Rebecca-ET.github.io/img/rgbloop.PNG)
+
+#### Tip to past self: Attend class. You'll understand the concepts better, and it'll save you a ton of time.
