@@ -10,4 +10,4 @@ The program turns on the 2 on-kit red LEDs and the on-board RGB red LED when lig
 
 ![ghost](http://Rebecca-ET.github.io/img/ghost.jpg)
 
-Tip to past self: Store constant values for "cold" and "dark" at the top.
+Tip to past self: Store constant values for "cold" and "dark" at the top of code.
