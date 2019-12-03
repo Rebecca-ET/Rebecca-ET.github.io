@@ -6,7 +6,7 @@ tags: [final, project, report]
 comments: true
 ---
 
-#Light-Up Drawstring Bag#
+##Light-Up Drawstring Bag##
 
 Once the switch is turned on and it is dark enough, the buzzer turns on the song "We Wish You A Merry Christmas" and then the LEDs light up one after another from right to left.
 The LEDs form the word الهيوم which means madness caused by excessive love in Arabic. 
