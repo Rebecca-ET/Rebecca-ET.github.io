@@ -13,24 +13,24 @@ The LEDs form the word الهيوم which means madness caused by excessive love
 I was inspired by the upcoming Christmas holiday to create a little pouch to put a gift inside for a loved one. 
 
 Materials:
--Lilypad Arduino Board
--conductive thread
--shiny embroidery floss (mocha brown)
--8"x14" muslin (wine red)
--scissors
--needle
--buzzer
--light sensor
--switch
--lithium ion battery 
--twine
--2 white LEDs
--2 yellow LEDs
--5 pink LEDs
--1 red LED
--3 green LEDs
--black felt
--ruler
+Lilypad Arduino Board
+conductive thread
+shiny embroidery floss (mocha brown)
+8"x14" muslin (wine red)
+scissors
+needle
+buzzer
+light sensor
+switch
+lithium ion battery 
+twine
+2 white LEDs
+2 yellow LEDs
+5 pink LEDs
+1 red LED
+3 green LEDs
+black felt
+ruler
 
 Revised Paper Prototype:
 
