@@ -34,7 +34,7 @@ Materials:
 
 Revised Paper Prototype:
 
-![proto](http://Rebecca-ET.github.io/img/Light-Up Drawstring Bag Paper Prototype Revised.jpg)
+![proto](http://Rebecca-ET.github.io/img/Light-UpDrawstringBagPaperPrototypeRevised.jpg)
 
 Alligator Prototype:
 
@@ -45,10 +45,10 @@ Photos of Project Progress:
 ![proto](http://Rebecca-ET.github.io/img/ruler.jpg)
 ![proto](http://Rebecca-ET.github.io/img/ledhoop.jpg)
 ![proto](http://Rebecca-ET.github.io/img/stitchstart.jpg)
-![proto](http://Rebecca-ET.github.io/img/wrong side.jpg)
+![proto](http://Rebecca-ET.github.io/img/wrongside.jpg)
 ![proto](http://Rebecca-ET.github.io/img/hooplight.jpg)
-![proto](http://Rebecca-ET.github.io/img/finalproduct.jpg)
 ![proto](http://Rebecca-ET.github.io/img/works.jpg)
+![proto](http://Rebecca-ET.github.io/img/finalproduct.jpg)
 
 Tip to past self: 
 1. When you make your paper prototype, be aware of what will be on the wrong side and what will be on the right side because the position of the ports could change.
